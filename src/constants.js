@@ -1,0 +1,1 @@
+export const DB_NAME = "mongodb+srv://mathewalex557:123@mongodb-learning.0cr0z.mongodb.net/?retryWrites=true&w=majority&appName=mongodb-learning"
